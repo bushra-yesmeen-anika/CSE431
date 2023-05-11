@@ -8,7 +8,7 @@ Paper title:
 Exploring Linguistically-Lightweight Keyword Extraction Techniques for Indexing News Articles in a Multilingual Set-up
 
 Link to the paper:
-https://aclanthology.org/2021.hackashop-1.6/
+https://aclanthology.org/search/?q=Exploring+Linguistically-Lightweight+Keyword+Extraction+Techniques+for+Indexing+News+Articles+in+a+Multilingual+Set-up
 
 
 Group Number:
